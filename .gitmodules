@@ -1,0 +1,18 @@
+[submodule "HTML_CSS_1"]
+	path = HTML_CSS_1
+	url = https://github.com/SoyAgustin/Front-end-basico
+[submodule "Java-I/java-primeros-pasos/src"]
+	path = Java-I/java-primeros-pasos/src
+	url = https://github.com/SoyAgustin/Java-I
+[submodule "Java-II/proyecto-bytebank"]
+	path = Java-II/proyecto-bytebank
+	url = https://github.com/SoyAgustin/Java-II
+[submodule "Java-III/src"]
+	path = Java-III/src
+	url = https://github.com/SoyAgustin/Java-III
+[submodule "Java-IV/java-pila-ejecucion/src"]
+	path = Java-IV/java-pila-ejecucion/src
+	url = https://github.com/SoyAgustin/Java-IV
+[submodule "Logica-de-programacion"]
+	path = Logica-de-programacion
+	url = https://github.com/SoyAgustin/LogicaDeProgramacion.git

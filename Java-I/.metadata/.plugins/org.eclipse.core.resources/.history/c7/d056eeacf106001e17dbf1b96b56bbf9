@@ -1,0 +1,13 @@
+
+public class EjemploCondicionales {
+	public static void main(String[] args) {
+		//sysout + ctrl+space autocompleta System.out.println();
+		
+		int edad = 28;
+		
+		if (edad > 18) {
+			System.out.println("Puede entrar");
+			System.out.println("Bienvenido");
+		}
+	}
+}

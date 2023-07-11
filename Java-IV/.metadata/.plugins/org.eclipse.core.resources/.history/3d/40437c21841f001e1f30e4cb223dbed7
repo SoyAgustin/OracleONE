@@ -1,0 +1,14 @@
+
+public class TestConexion {
+	
+	public static void main(String[] args) {
+		Conexion con = new Conexion();
+		try {
+			con.leerDatos();
+			con.cerrar();
+		}catch(IlegalStateException ex) {
+			ex.printStackTrace();
+		}
+		
+	}
+}

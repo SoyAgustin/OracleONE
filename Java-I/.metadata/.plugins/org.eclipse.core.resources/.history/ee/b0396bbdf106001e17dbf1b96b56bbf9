@@ -1,0 +1,15 @@
+
+public class EjemploCondicionales {
+	public static void main(String[] args) {
+		// sysout + ctrl+space autocompleta System.out.println();
+
+		int edad = 28;
+
+		if (edad > 18) {
+			System.out.println("Puede entrar");
+			System.out.println("Bienvenido");
+		} // Se pueden quitar las llaves pero solo se va a ejecutar la primera línea
+			// despues del if
+
+	}
+}

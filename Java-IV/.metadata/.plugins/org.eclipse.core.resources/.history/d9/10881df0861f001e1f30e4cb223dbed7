@@ -1,0 +1,16 @@
+public class Conexion {
+
+   public Conexion() {
+       System.out.println("Abriendo conexion");
+   }
+
+   public void leerDatos() {
+       System.out.println("Recibiendo datos");
+       throw new IllegalStateException();  //Cuando no hay conexion exitosa
+       //En este caso se simula una situación de conexion no exitosa
+   }
+
+   public void cerrar() {
+       System.out.println("Cerrando conexion");
+   }
+}

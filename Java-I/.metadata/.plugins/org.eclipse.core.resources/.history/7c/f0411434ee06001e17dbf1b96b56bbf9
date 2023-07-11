@@ -1,0 +1,10 @@
+
+public class EjemploCaracteres {
+	
+	public static void main(String[] args) {
+		
+		
+		char caracter = 'a'; // Un solo elemento y forzosamente con comillas simples
+		System.out.println(caracter);
+	}
+}
