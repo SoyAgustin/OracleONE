@@ -19,3 +19,6 @@
 [submodule "Java-V"]
 	path = Java-V
 	url = https://github.com/SoyAgustin/Java-V
+[submodule "Challenges/Conversor"]
+	path = Challenges/Conversor
+	url = https://github.com/SoyAgustin/ConversorDivisas.git
