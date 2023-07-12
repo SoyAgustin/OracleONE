@@ -1,3 +1,6 @@
+[submodule "Logica-de-programacion"]
+	path = Logica-de-programacion
+	url = https://github.com/SoyAgustin/LogicaDeProgramacion.git
 [submodule "HTML_CSS_1"]
 	path = HTML_CSS_1
 	url = https://github.com/SoyAgustin/Front-end-basico
@@ -13,6 +16,6 @@
 [submodule "Java-IV/java-pila-ejecucion/src"]
 	path = Java-IV/java-pila-ejecucion/src
 	url = https://github.com/SoyAgustin/Java-IV
-[submodule "Logica-de-programacion"]
-	path = Logica-de-programacion
-	url = https://github.com/SoyAgustin/LogicaDeProgramacion.git
+[submodule "Java-V"]
+	path = Java-V
+	url = https://github.com/SoyAgustin/Java-V
