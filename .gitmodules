@@ -22,3 +22,6 @@
 [submodule "Challenges/Conversor"]
 	path = Challenges/Conversor
 	url = https://github.com/SoyAgustin/ConversorDivisas.git
+[submodule "Challenges/Encriptador"]
+	path = Challenges/Encriptador
+	url = https://github.com/SoyAgustin/EncriptadorWeb
