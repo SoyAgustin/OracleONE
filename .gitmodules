@@ -25,3 +25,6 @@
 [submodule "Challenges/Encriptador"]
 	path = Challenges/Encriptador
 	url = https://github.com/SoyAgustin/EncriptadorWeb
+[submodule "Java-VI/src"]
+	path = Java-VI/src
+	url = https://github.com/SoyAgustin/Java-VI.git
