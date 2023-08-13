@@ -28,3 +28,6 @@
 [submodule "Java-VI/src"]
 	path = Java-VI/src
 	url = https://github.com/SoyAgustin/Java-VI.git
+[submodule "Java-JDBC"]
+	path = Java-JDBC
+	url = https://github.com/SoyAgustin/Java-JDBC.git
