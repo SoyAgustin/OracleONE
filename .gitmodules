@@ -31,3 +31,6 @@
 [submodule "Java-JDBC"]
 	path = Java-JDBC
 	url = https://github.com/SoyAgustin/Java-JDBC.git
+[submodule "Java-Hibernate"]
+	path = Java-Hibernate
+	url = https://github.com/SoyAgustin/Java-Hibernate.git
