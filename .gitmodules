@@ -34,3 +34,6 @@
 [submodule "Java-Hibernate"]
 	path = Java-Hibernate
 	url = https://github.com/SoyAgustin/Java-Hibernate.git
+[submodule "SpringBoot3"]
+	path = SpringBoot3
+	url = https://github.com/SoyAgustin/SpringBoot3.git
